@@ -5,7 +5,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ![Demo pics](https://private-user-images.githubusercontent.com/9015417/460308041-ebf13be4-f659-4d95-9fb5-32d86b45fcbd.PNG?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTEyMDQwNDUsIm5iZiI6MTc1MTIwMzc0NSwicGF0aCI6Ii85MDE1NDE3LzQ2MDMwODA0MS1lYmYxM2JlNC1mNjU5LTRkOTUtOWZiNS0zMmQ4NmI0NWZjYmQuUE5HP1gtQW16LUFsZ29yaXRobT1BV1M0LUhNQUMtU0hBMjU2JlgtQW16LUNyZWRlbnRpYWw9QUtJQVZDT0RZTFNBNTNQUUs0WkElMkYyMDI1MDYyOSUyRnVzLWVhc3QtMSUyRnMzJTJGYXdzNF9yZXF1ZXN0JlgtQW16LURhdGU9MjAyNTA2MjlUMTMyOTA1WiZYLUFtei1FeHBpcmVzPTMwMCZYLUFtei1TaWduYXR1cmU9NTUwNzY1ZWMyMTJkNGQ0MDg5OTVjM2FiMWRmYmExOTg3YjBlYjk1NjA0OTQ1MjJjMjI3ODU4NDVhOGMyOTAxYyZYLUFtei1TaWduZWRIZWFkZXJzPWhvc3QifQ.Bcz_7rRfqHdz9qgRAHLIK5GUwGKTU0vYoKtfSK9aU6k)
 
 lINK Thumbsnap
-![Thumbsnap image](https://thumbsnap.com/3jkkyi6N)
+![Thumbsnap image](https://thumbsnap.com/i/3jkkyi6N.png?0629)
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
