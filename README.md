@@ -14,6 +14,8 @@ This is an Angular-based web application designed to deliver the latest news, pr
 
 ## Available Scripts
 
+lINK Thumbsnap
+![Thumbsnap image](https://thumbsnap.com/i/3jkkyi6N.png?0629)
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
