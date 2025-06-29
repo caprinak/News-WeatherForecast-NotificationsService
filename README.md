@@ -12,7 +12,7 @@ This is an Angular-based web application designed to deliver the latest news, pr
 
 
 
-## Available Scripts
+## Demo Image
 
 lINK Thumbsnap
 ![Thumbsnap image](https://thumbsnap.com/i/3jkkyi6N.png?0629)
